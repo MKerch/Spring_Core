@@ -1,0 +1,8 @@
+com\app\controller\PersonController.class
+com\app\repository\PersonRepository.class
+com\app\repository\DefaultPersonRepositoryImpl.class
+com\app\service\PersonService.class
+com\app\config\MyApplicationConfig.class
+com\app\config\MySpringConfig.class
+com\app\service\PersonServiceImpl.class
+com\app\model\Person.class
