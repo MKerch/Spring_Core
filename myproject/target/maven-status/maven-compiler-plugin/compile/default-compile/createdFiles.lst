@@ -1,0 +1,11 @@
+com\app\processor\AuditProcessorImpl.class
+com\app\validator\PersonValidatorImpl.class
+com\app\AppStarter.class
+com\app\convector\PersonConvectorImpl.class
+com\app\dao\DAO.class
+com\app\validator\PersonValidator.class
+com\app\dao\MongoDAOImpl.class
+com\app\convector\PersonConvector.class
+com\app\listener\MyJMSListener.class
+com\app\processor\AuditProcessor.class
+com\app\model\Person.class
