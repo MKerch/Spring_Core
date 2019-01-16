@@ -1,0 +1,12 @@
+com\app\convector\ConvectorService.class
+com\app\DAO\DAOImpl.class
+com\app\validation\ValidationService.class
+com\app\DAO\DAO.class
+com\app\processor\ProcessorService.class
+com\app\processor\ProcessorServiceImpl.class
+com\app\convector\ConvectorServiceImpl.class
+com\app\listener\ListenerService.class
+com\app\AppConfig.class
+com\app\Main.class
+com\app\DAO\DAOImpl2.class
+com\app\model\Person.class
